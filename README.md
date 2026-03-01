@@ -1,18 +1,17 @@
 # Hey, I'm Akshat 👋
 
-EEE undergrad at GCET (AKTU) who somehow ended up writing more code than circuit diagrams.
+EEE undergrad at AKTU who somehow ended up writing more code than circuit diagrams.
 I like building things — backends that actually work and games that mess with your head.
 
 ## What I'm working on
-- 🎮 **Forensick** — a 2D psychological horror survival game in Unity where darkness slowly consumes you
-- 🔧 **Task Manager API** — a Spring Boot REST API with JWT auth, MySQL, deployed on Render
+-  **Forensick** — a 2D psychological horror survival game in Unity where darkness slowly consumes you
+-  **Task Manager API** — a Spring Boot REST API with JWT auth, MySQL, deployed on Render
 
 ## Tech I use
 - **Backend** — Java, Spring Boot, Spring Security, JWT, REST APIs
 - **Database** — MySQL, Spring Data JPA, cloud-hosted databases
 - **Cloud & Deployment** — Render, Railway, Docker (basics)
 - **Game Dev** — Unity 2D, C#
-- **Tools** — Git, Postman, IntelliJ, VS Code
 
 ## What I actually do
 Design and build REST APIs, handle database schemas, manage cloud deployments —
@@ -28,4 +27,4 @@ A software role where I can actually build things that matter.
 Internships, collabs, interesting problems — always open.
 
 ---
-*"The best way to learn something is to build something that scares you a little."*
+
